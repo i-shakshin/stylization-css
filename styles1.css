@@ -1,0 +1,26 @@
+.caption {
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+}
+
+fieldset {
+    background-color: bisque;
+}
+
+.infofield {
+    font-family: cursive;
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+fieldset {
+    margin-top: 20px;
+    border: solid;
+}
+
+input[type=submit] {
+    margin-top: 20px;
+    width: 170px;
+    padding: 10px;
+}
